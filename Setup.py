@@ -7,7 +7,7 @@ setup(
     description='A python speech to text library',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/JunaidParkar/Python-STT',
+    url='https://github.com/JunaidParkar/python-speech-to-text.git',
     include_package_data=True,
     packages=find_packages(),
     install_requires=[
@@ -23,8 +23,8 @@ setup(
     ],
     python_requires='>=3.6',
     project_urls={
-        'Documentation': 'https://github.com/JunaidParkar/Python-STT',
-        'Source': 'https://github.com/JunaidParkar/Python-STT',
-        'Tracker': 'https://github.com/JunaidParkar/Python-STT',
+        'Documentation': 'https://github.com/JunaidParkar/python-speech-to-text.git',
+        'Source': 'https://github.com/JunaidParkar/python-speech-to-text.git',
+        'Tracker': 'https://github.com/JunaidParkar/python-speech-to-text.git',
     },
 )
